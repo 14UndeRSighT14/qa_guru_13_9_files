@@ -1,0 +1,9 @@
+{
+  "name": "Вячеслав",
+  "isGoodTeacher": true,
+  "age": 33,
+  "passport": {
+      "serial": 8009,
+      "number": 123456
+  }
+}

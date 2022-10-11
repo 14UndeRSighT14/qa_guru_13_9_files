@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Владислав",
+    "age": "35",
+    "onCredit": true,
+    "cars": {
+       "name": "Lada",
+       "models": "Vesta"
+    }
+  },
+  {
+    "name": "Вячеслав",
+    "age": "33",
+    "onCredit": false,
+    "cars": {
+       "name": "Skoda",
+       "models": "Kodiak"
+    }
+  },
+  {
+    "name": "Иван",
+    "age": "44",
+    "onCredit": false,
+    "cars": {
+       "name": "Lexus",
+       "models": "rx 350"
+    }
+  }
+]
